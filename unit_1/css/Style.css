@@ -7,3 +7,11 @@ h1, p {
 	color: gold
 }
 
+
+div {
+    background-color: white;
+    width: 300px;
+    border: 15px solid gold;
+    padding: 20px;
+    margin: 15px;
+}
