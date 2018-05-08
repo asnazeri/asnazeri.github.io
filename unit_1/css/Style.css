@@ -1,17 +1,47 @@
 
 body{
-	background-color: black;
+	text-align: center;
 }
 
-h1, p {
-	color: gold
+body{
+	background-color: black;
+	font-family: Helvetica, san-serif;
+}
+
+h1 {
+	color: gold;
+	font-family: "Helvetica Neue", monospace;
+	font-size: 48px;
+	font-weight: normal;
+	<!--text-decoration: underline-->;
+	text-transform: uppercase;
+	background-color: white;
+    width: 1600px;
+    border: 15px solid gold;
+    padding: 20px;
+    margin: 15px;
+    font-family: "Courier New", san-serif;
+    text-align: left;
+    font-size: 78px;
+
+}
+
+p{
+	color: gold;
+	font-family: "Helvetica Neue", monospace;
+	font-size: 39px;
+	font-weight: normal;
 }
 
 
 div {
     background-color: white;
-    width: 300px;
+    width: 1600px;
     border: 15px solid gold;
     padding: 20px;
     margin: 15px;
+    font-family: "Courier New", san-serif;
+    text-align: left;
+    font-size: 78px;
+
 }
